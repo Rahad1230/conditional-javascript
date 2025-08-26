@@ -1,10 +1,9 @@
-42
 /*
  * File: conditional.js
  * Created: Tuesday, 26th August 2025 6:19:15 pm
  * Author: Md.Rahad (mdrahad1296@gmail.com)
  * -----
- * Last Modified: Tuesday, 26th August 2025 8:12:48 pm
+ * Last Modified: Tuesday, 26th August 2025 8:39:28 pm
  * Modified By: Md.Rahad (mdrahad1296@gmail.com)
  * -----
  * Copyright (c) 2025 Islamic University
